@@ -1,0 +1,8 @@
+<template unencoded="false">
+  <roots>
+    <root index="0" path="" />
+    <root index="1" path="app" />
+    <root index="2" path="app/src/test" />
+    <root index="3" path="app/src/main" />
+  </roots>
+</template>
